@@ -17,6 +17,8 @@
 
 **A dark theme for the Rofi application launcher.**
 
+![img](./screenshots/rofi.png "Rofi")
+
 ## Acknowledgments<a id="sec-1-1" name="sec-1-1"></a>
 
 -   **Inspired by** [Challenger Deep](https://github.com/MaxSt/challenger-deep) Emacs Theme **by** *MaxSt*
