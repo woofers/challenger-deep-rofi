@@ -1,0 +1,17 @@
+
+#+TITLE:	Challenger Deep Rofi Theme
+#+AUTHOR:	Jaxson Van Doorn
+#+EMAIL:	jaxson.vandoorn@gmail.com
+#+OPTIONS:  num:nil
+
+* Challenger Deep Rofi Theme
+*A dark theme for the Rofi application launcher.*
+
+** Acknowledgments
+**** *Inspired by* [[https://github.com/MaxSt/challenger-deep][Challenger Deep]] Emacs Theme *by* /MaxSt/
+**** *Config Adapted from* this [[https://github.com/ganifladi/linux/blob/master/config/rofi/config][config]] *by* /Richard Rabe/
+**** *GPL 2017*, /Jaxson Van Doorn/
+** Other Projects
+**** [[https://github.com/woofers/woofers3d][Woofers3D]]
+**** [[https://github.com/woofers/k9-krew][K9Krew]]
+**** [[https://github.com/woofers/dotfiles][Dotfiles]]
