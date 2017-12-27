@@ -1,25 +1,10 @@
-<div id="table-of-contents">
-<h2>Table of Contents</h2>
-<div id="text-table-of-contents">
-<ul>
-<li><a href="#sec-1">Challenger Deep Rofi Theme</a>
-<ul>
-<li><a href="#sec-1-1">Acknowledgments</a></li>
-<li><a href="#sec-1-2">Other Projects</a></li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-# Challenger Deep Rofi Theme<a id="sec-1" name="sec-1"></a>
+# Challenger Deep Rofi Theme
 
 **A dark theme for the Rofi application launcher.**
 
 ![img](./screenshots/rofi.png "Rofi")
 
-## Acknowledgments<a id="sec-1-1" name="sec-1-1"></a>
+## Acknowledgments
 
 -   **Inspired by** [Challenger Deep](https://github.com/MaxSt/challenger-deep) Emacs Theme **by** *MaxSt*
 
@@ -27,7 +12,7 @@
 
 -   **GPL 2017**, *Jaxson Van Doorn*
 
-## Other Projects<a id="sec-1-2" name="sec-1-2"></a>
+## Other Projects
 
 -   [Woofers3D](https://github.com/woofers/woofers3d)
 

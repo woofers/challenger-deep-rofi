@@ -2,7 +2,7 @@
 #+TITLE:	Challenger Deep Rofi Theme
 #+AUTHOR:	Jaxson Van Doorn
 #+EMAIL:	jaxson.vandoorn@gmail.com
-#+OPTIONS:  num:nil
+#+OPTIONS:  num:nil toc:nil
 
 * Challenger Deep Rofi Theme
 *A dark theme for the Rofi application launcher.*
