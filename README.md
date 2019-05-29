@@ -1,21 +1,9 @@
+
+
 # Challenger Deep Rofi Theme
 
 **A dark theme for the Rofi application launcher.**
 
-![img](./screenshots/rofi.png "Rofi")
+Inspired by [Challenger Deep](https://github.com/MaxSt/challenger-deep) Emacs Theme by [MaxSt](https://github.com/MaxSt).  Configuration file adapted from this [config](https://github.com/ganifladi/linux/blob/master/config/rofi/config) by [Richard Rabe](https://github.com/ganifladi).
 
-## Acknowledgments
-
--   **Inspired by** [Challenger Deep](https://github.com/MaxSt/challenger-deep) Emacs Theme **by** *MaxSt*
-
--   **Config Adapted from** this [config](https://github.com/ganifladi/linux/blob/master/config/rofi/config) **by** *Richard Rabe*
-
--   **GPL 2017**, *Jaxson Van Doorn*
-
-## Other Projects
-
--   [Woofers3D](https://github.com/woofers/woofers3d)
-
--   [K9Krew](https://github.com/woofers/k9-krew)
-
--   [Dotfiles](https://github.com/woofers/dotfiles)
+![img](./screenshots/rofi.png "Challenger Deep Theme Screenshot")
